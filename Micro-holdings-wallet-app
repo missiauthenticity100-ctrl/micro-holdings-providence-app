@@ -1,0 +1,12 @@
+# Micro Holdings Wallet App
+
+Simple wallet for:
+- BTC-Pro
+- BTC-Pearl (BTC-P)
+- BTC-Black (BTC-B)
+- BTC-Platinum (BTC-Pl)
+- Rakz Token
+- Stakz Token
+
+Supports Ledger hardware + biometric login.
+Connected to GrokDEX exchange.
